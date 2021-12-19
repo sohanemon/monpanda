@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monpanda/static/css/main.56e6221f.css",
+    "main.js": "/monpanda/static/js/main.f3c0f467.js",
+    "static/js/787.6804e906.chunk.js": "/monpanda/static/js/787.6804e906.chunk.js",
+    "index.html": "/monpanda/index.html",
+    "main.56e6221f.css.map": "/monpanda/static/css/main.56e6221f.css.map",
+    "main.f3c0f467.js.map": "/monpanda/static/js/main.f3c0f467.js.map",
+    "787.6804e906.chunk.js.map": "/monpanda/static/js/787.6804e906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.f3c0f467.js"
+  ]
+}
