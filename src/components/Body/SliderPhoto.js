@@ -37,7 +37,7 @@ export default class SliderPhoto extends Component {
               </Button>
             </div>
           </Col>
-          <Col md={{ span: 5, offset: 0 }} className="pb-5">
+          <Col md={{ span: 5, offset: 0 }} className="pb-5 pt-4">
             <img
               className="d-block align-self-end img-fluid"
               style={{
